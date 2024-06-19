@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jevinjayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="jevinjayawardhana" /> </p>
 
-- 🌱 I’m currently learning **Ballerina, Flutter, FireBase**
+- 🌱 I’m currently learning **React.js, NExt.js, Flutter, FireBase**
 
 - 📫 How to reach me **jwkj1212@gmail.com**
 
